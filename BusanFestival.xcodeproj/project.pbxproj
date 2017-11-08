@@ -14,6 +14,7 @@
 		940314DE1FB32C8E0016E4AE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 940314DC1FB32C8E0016E4AE /* LaunchScreen.storyboard */; };
 		940314E91FB32C8E0016E4AE /* BusanFestivalTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 940314E81FB32C8E0016E4AE /* BusanFestivalTests.swift */; };
 		940314F41FB32C8E0016E4AE /* BusanFestivalUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 940314F31FB32C8E0016E4AE /* BusanFestivalUITests.swift */; };
+		940315021FB32D040016E4AE /* FestivalListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 940315011FB32D040016E4AE /* FestivalListTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		940314EF1FB32C8E0016E4AE /* BusanFestivalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BusanFestivalUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		940314F31FB32C8E0016E4AE /* BusanFestivalUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BusanFestivalUITests.swift; sourceTree = "<group>"; };
 		940314F51FB32C8E0016E4AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		940315011FB32D040016E4AE /* FestivalListTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FestivalListTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				940314D31FB32C8E0016E4AE /* AppDelegate.swift */,
 				940314D51FB32C8E0016E4AE /* ViewController.swift */,
 				940314D71FB32C8E0016E4AE /* Main.storyboard */,
+				940315011FB32D040016E4AE /* FestivalListTableViewController.swift */,
 				940314DA1FB32C8E0016E4AE /* Assets.xcassets */,
 				940314DC1FB32C8E0016E4AE /* LaunchScreen.storyboard */,
 				940314DF1FB32C8E0016E4AE /* Info.plist */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				940314D61FB32C8E0016E4AE /* ViewController.swift in Sources */,
+				940315021FB32D040016E4AE /* FestivalListTableViewController.swift in Sources */,
 				940314D41FB32C8E0016E4AE /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
